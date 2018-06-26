@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-web Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: wangzheng26
+Implementation-Vendor-Id: wz-demo
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.7
+Main-Class: ${start-class}
+
