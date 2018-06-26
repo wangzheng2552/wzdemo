@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wzdemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wzdemo_jar</output-path>
+    <root id="archive" name="wzdemo.jar">
+      <element id="module-output" name="demoservice" />
+      <element id="module-output" name="demodao" />
+      <element id="module-output" name="democommon" />
+      <element id="module-output" name="wzdemo" />
+      <element id="module-output" name="demoweb" />
+    </root>
+  </artifact>
+</component>
